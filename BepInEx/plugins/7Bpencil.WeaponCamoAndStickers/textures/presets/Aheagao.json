@@ -1,0 +1,882 @@
+[
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.04416169,
+      "y": -0.711693347,
+      "z": 0.004783769
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.2,
+      "y": 0.04,
+      "z": 0.2
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.0400069244,
+      "y": -0.5116189,
+      "z": -0.06034273
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.2,
+      "y": 0.04,
+      "z": 0.2
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.04000205,
+      "y": -0.3119607,
+      "z": -0.06130704
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.248877525,
+      "y": 0.04,
+      "z": 0.22318235
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.0400063358,
+      "y": -0.08476741,
+      "z": -0.009741162
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.226174548,
+      "y": 0.04,
+      "z": 0.25170207
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.0667693838,
+      "y": -0.4509842,
+      "z": 0.062853165
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.2,
+      "y": 0.0680508539,
+      "z": 0.2
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.0400009826,
+      "y": -0.277753741,
+      "z": 0.05911697
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.2,
+      "y": 0.07691145,
+      "z": 0.194843471
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.0400060229,
+      "y": -0.2885195,
+      "z": -0.0692671537
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -90.0
+    },
+    "LocalScale": {
+      "x": -0.2,
+      "y": 0.04,
+      "z": 0.2
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.04000392,
+      "y": -0.440007061,
+      "z": -0.06950744
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": 0.2,
+      "y": 0.04,
+      "z": 0.2
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.0400000364,
+      "y": -0.6400665,
+      "z": -2.68716462E-08
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": 0.34062925,
+      "y": 0.04,
+      "z": 0.2
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.0400008559,
+      "y": -0.313427031,
+      "z": 0.130443081
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": 0.3574662,
+      "y": 0.04,
+      "z": 0.198745415
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.0399986468,
+      "y": -0.0746010244,
+      "z": -0.0232427
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": 0.261801183,
+      "y": 0.04,
+      "z": 0.261801183
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.04,
+      "y": -0.4269,
+      "z": 0.0
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 180.0
+    },
+    "LocalScale": {
+      "x": 0.473227173,
+      "y": 0.5095952,
+      "z": 0.437421679
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.0432298072,
+      "y": -0.4269485,
+      "z": 0.09912677
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 270.301941,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": 0.568354547,
+      "y": 0.239830583,
+      "z": 0.439565957
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.0310857929,
+      "y": -0.458151758,
+      "z": 0.137473464
+    },
+    "LocalEulerAngles": {
+      "x": 270.179138,
+      "y": 183.71405,
+      "z": -0.00328355329
+    },
+    "LocalScale": {
+      "x": 0.2,
+      "y": 0.3918155,
+      "z": -0.464688927
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.039999608,
+      "y": -1.00505161,
+      "z": -1.548209E-07
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -270.0
+    },
+    "LocalScale": {
+      "x": 0.377779663,
+      "y": 0.04,
+      "z": 0.3543344
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.04000218,
+      "y": -0.1260086,
+      "z": 1.71917293E-07
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -450.0
+    },
+    "LocalScale": {
+      "x": -0.377779663,
+      "y": 0.04,
+      "z": 0.3543344
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.04000219,
+      "y": -0.9551208,
+      "z": -1.45471461E-07
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -90.0
+    },
+    "LocalScale": {
+      "x": -0.32674107,
+      "y": 0.04,
+      "z": 0.370436877
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 5.740468E-07,
+      "y": -0.7407361,
+      "z": 0.164709061
+    },
+    "LocalEulerAngles": {
+      "x": 332.307,
+      "y": -2.62897765E-06,
+      "z": 180.0
+    },
+    "LocalScale": {
+      "x": 0.2,
+      "y": 1.63046229,
+      "z": 0.2
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.0372610167,
+      "y": -0.979820848,
+      "z": -0.0360273458
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 265.663147,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.420785248,
+      "y": 0.04,
+      "z": 0.2
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.0135865072,
+      "y": -0.955283463,
+      "z": 0.04036245
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 89.3065,
+      "z": -270.0
+    },
+    "LocalScale": {
+      "x": 0.461410344,
+      "y": 0.06190358,
+      "z": -0.2
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.203562438,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.0582025535,
+      "y": -0.0145265469,
+      "z": 0.186562508
+    },
+    "LocalEulerAngles": {
+      "x": 22.1474915,
+      "y": 1.02877343,
+      "z": 2.72712064
+    },
+    "LocalScale": {
+      "x": 0.2,
+      "y": 0.883811653,
+      "z": 0.55963695
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/Azukata/ahegao",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.494350284,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.0400013626,
+      "y": -0.1956144,
+      "z": -0.220188275
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.2,
+      "y": 0.04,
+      "z": 0.2
+    },
+    "MaxAngle": 0.5
+  }
+]

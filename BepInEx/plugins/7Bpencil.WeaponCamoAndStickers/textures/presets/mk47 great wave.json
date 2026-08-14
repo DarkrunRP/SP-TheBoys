@@ -1,0 +1,380 @@
+[
+  {
+    "SchemaVersion": 2,
+    "Name": "",
+    "Texture": "builtin/camos/default",
+    "TextureUV": {
+      "x": 0.157073185,
+      "y": 0.0285956319,
+      "z": 1.01476932,
+      "w": 1.01476932
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.07749242,
+      "y": 0.221096367,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": 0.005280525,
+      "y": -0.03631328,
+      "z": 0.100710809
+    },
+    "LocalEulerAngles": {
+      "x": 27.7548351,
+      "y": 355.437225,
+      "z": 354.853333
+    },
+    "LocalScale": {
+      "x": 1.83926,
+      "y": 0.172440186,
+      "z": 1.41869414
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 2,
+    "Name": "",
+    "Texture": "builtin/camos/default",
+    "TextureUV": {
+      "x": 0.157073185,
+      "y": 0.0285956319,
+      "z": 1.01476932,
+      "w": 1.01476932
+    },
+    "TextureAngle": 15.362318,
+    "ColorHSVA": {
+      "x": 0.07749242,
+      "y": 0.221096367,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.00350810448,
+      "y": -0.183783546,
+      "z": 0.0221483689
+    },
+    "LocalEulerAngles": {
+      "x": 279.0,
+      "y": 29.0,
+      "z": 239.0
+    },
+    "LocalScale": {
+      "x": 1.83926,
+      "y": 0.172440186,
+      "z": 1.41869414
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 2,
+    "Name": "",
+    "Texture": "builtin/camos/default",
+    "TextureUV": {
+      "x": 0.157073185,
+      "y": 0.0285956319,
+      "z": 1.01476932,
+      "w": 1.01476932
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.07749242,
+      "y": 0.221096367,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.05140832,
+      "y": -0.8274159,
+      "z": -0.0678495839
+    },
+    "LocalEulerAngles": {
+      "x": 27.7548351,
+      "y": 355.437225,
+      "z": -545.146667
+    },
+    "LocalScale": {
+      "x": 0.8312482,
+      "y": 1.14542735,
+      "z": 0.8312482
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 2,
+    "Name": "",
+    "Texture": "builtin/camos/default",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.07749242,
+      "y": 0.221096367,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": 0.04,
+      "y": -0.4625,
+      "z": 0.0
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": -1.41869414,
+      "y": 0.04,
+      "z": 1.41869414
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 2,
+    "Name": "",
+    "Texture": "builtin/camos/default",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.07749242,
+      "y": 0.221096367,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.08925792,
+      "y": -0.6563652,
+      "z": -2.9923342E-08
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.453870744,
+      "y": 0.116789788,
+      "z": 0.336208582
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 2,
+    "Name": "",
+    "Texture": "builtin/camos/default",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.07749242,
+      "y": 0.221096367,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.4625,
+      "z": 0.0
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 1.41869414,
+      "y": 0.04,
+      "z": 1.41869414
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 2,
+    "Name": "",
+    "Texture": "builtin/camos/default",
+    "TextureUV": {
+      "x": -0.04168985,
+      "y": 0.02040105,
+      "z": 0.476585627,
+      "w": 0.476585627
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.07749242,
+      "y": 0.221096367,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": 0.03017877,
+      "y": 0.0554266572,
+      "z": 0.172423258
+    },
+    "LocalEulerAngles": {
+      "x": 316.271545,
+      "y": 172.552139,
+      "z": 10.7092905
+    },
+    "LocalScale": {
+      "x": 1.21235442,
+      "y": 1.47270823,
+      "z": 1.31747365
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 2,
+    "Name": "",
+    "Texture": "stickers/Azukata/wave",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04002034,
+      "y": -0.346838385,
+      "z": -0.0496366061
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.300232172,
+      "y": 0.04,
+      "z": 0.200029686
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 2,
+    "Name": "",
+    "Texture": "stickers/Azukata/wave",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": 0.04002034,
+      "y": -0.346838385,
+      "z": -0.0496366061
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": 0.300232172,
+      "y": 0.04,
+      "z": 0.200029686
+    },
+    "MaxAngle": 0.5
+  }
+]
