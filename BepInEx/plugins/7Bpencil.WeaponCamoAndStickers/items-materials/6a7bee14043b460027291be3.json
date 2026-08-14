@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1786677220208,
+  "Materials": {
+    "tactical_all_surefire_xc1": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.258956939
+      },
+      "SpecColorHSV": {
+        "x": 0.6459841,
+        "y": 0.09905658,
+        "z": 0.9339623
+      },
+      "Glossness": 10.0,
+      "Specularness": 9.268182,
+      "ReflectColorHSV": {
+        "x": 0.352059931,
+        "y": 0.172284648,
+        "z": 0.687904835
+      },
+      "Texture": "camos/Nkstuf/Camos/BO3_jungleorange.png",
+      "TextureUV": {
+        "x": 1.99642849,
+        "y": 1.99642849,
+        "z": -0.107142858,
+        "w": -0.357142866
+      },
+      "SpecVals": {
+        "x": 2.81818175,
+        "y": 1.90909088
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    }
+  }
+}
