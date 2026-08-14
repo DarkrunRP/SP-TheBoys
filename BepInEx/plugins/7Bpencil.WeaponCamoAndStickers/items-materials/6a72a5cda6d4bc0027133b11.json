@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1785951519993,
+  "Materials": {
+    "rec_p90_advanced_mat": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.6603774
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.8207547
+      },
+      "Glossness": 1.05,
+      "Specularness": 1.33,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5471698
+      },
+      "Texture": "camos/HiredOpsCamo/115_camo_texture.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

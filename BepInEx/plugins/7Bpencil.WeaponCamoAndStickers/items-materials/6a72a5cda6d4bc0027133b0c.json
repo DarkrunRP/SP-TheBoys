@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1785951519994,
+  "Materials": {
+    "barrel_p90_264mm_57x28": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.4716981
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.6509434
+      },
+      "Glossness": 1.0,
+      "Specularness": 1.84,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.4811321
+      },
+      "Texture": "camos/HiredOpsCamo/115_camo_texture.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

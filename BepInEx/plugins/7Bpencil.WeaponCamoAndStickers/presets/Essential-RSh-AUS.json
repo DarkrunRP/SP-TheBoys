@@ -1,0 +1,78 @@
+[
+  {
+    "Texture": "camos/Robot/AUSCAM_NATO",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.04260564,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/f951ad40fc534b41a70cec94b41a2bc1",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.0322694853,
+      "y": -0.579526663,
+      "z": -0.000521913753
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -270.0
+    },
+    "LocalScale": {
+      "x": 0.489571333,
+      "y": 0.03890322,
+      "z": 0.2
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "Texture": "camos/Robot/AUSCAM_NATO",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.04260564,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/f951ad40fc534b41a70cec94b41a2bc1",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.0322694853,
+      "y": -0.579526663,
+      "z": -0.000521913753
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -90.0
+    },
+    "LocalScale": {
+      "x": 0.489571333,
+      "y": 0.03890322,
+      "z": 0.2
+    },
+    "MaxAngle": 0.5
+  }
+]

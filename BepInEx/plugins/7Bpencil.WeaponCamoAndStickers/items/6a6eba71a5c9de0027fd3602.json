@@ -1,0 +1,50 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1785641675848,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Snow/Snow_Camo_3_Snow & Ice.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 4.418391,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.648475647
+    },
+    "Mask": "masks/ChampionOfLight/1777144355736.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.64848876,
+      "z": -0.04899994
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 1.28948665,
+      "y": 0.04,
+      "z": 0.194563523
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]

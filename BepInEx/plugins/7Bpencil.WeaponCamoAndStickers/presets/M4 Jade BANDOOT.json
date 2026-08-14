@@ -1,0 +1,416 @@
+[
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778720218521,
+    "Name": "ERASE MAG. CLICK EYE ICON?",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.07913342,
+      "y": -0.397925019,
+      "z": -0.193928525
+    },
+    "LocalEulerAngles": {
+      "x": 350.019958,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.122571096,
+      "y": 0.157983541,
+      "z": 0.236182913
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": false,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778009965514,
+    "Name": "Handguard",
+    "Texture": "camos/EFT Arena/Desert_Night_Camo_Green_pattern.png",
+    "TextureUV": {
+      "x": -0.11529313,
+      "y": -0.8373953,
+      "z": 1.70962691,
+      "w": 0.191630572
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/799420719ed4558e1f7cf619e740e5a7.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400246754,
+      "y": -0.6219959,
+      "z": 0.00693500228
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.5143662,
+      "y": 0.08072843,
+      "z": 0.0576548576
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778009965514,
+    "Name": "Body",
+    "Texture": "camos/EFT Arena/Desert_Night_Camo_Green_pattern.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.6794927,
+      "w": 0.5586088
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/xx_MW19_topo_VectorTrails.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400129035,
+      "y": -0.3190635,
+      "z": -0.052509
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.1982212,
+      "y": 0.0886617154,
+      "z": 0.162957013
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778009965514,
+    "Name": "Scopes",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_133_Submerged.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.04895329,
+      "w": 1.12714016
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.27987656,
+      "y": 0.9723306,
+      "z": 0.202345118,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.08396835,
+      "y": -0.494935066,
+      "z": 0.103486039
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.6784723,
+      "y": 0.16823484,
+      "z": 0.162957013
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778009965514,
+    "Name": "Buttstock",
+    "Texture": "camos/EFT Arena/Desert_Night_Camo_Green_pattern.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.44933736,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/xx_MW19_topo_VectorTrails.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04001998,
+      "y": -0.06634648,
+      "z": -0.06749735
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.3070581,
+      "y": 0.0844313651,
+      "z": 0.211861014
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778009965514,
+    "Name": "Mag",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_133_Submerged.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.5078924,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.281946748,
+      "y": 1.0,
+      "z": 0.201605365,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.06265383,
+      "y": -0.3955467,
+      "z": -0.194090918
+    },
+    "LocalEulerAngles": {
+      "x": 350.070435,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.1787146,
+      "y": 0.129330173,
+      "z": 0.2345833
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778009965514,
+    "Name": "Grip/Lights",
+    "Texture": "camos/UtanuManer/Colors/Color_1_Texture_Black.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.65435326,
+      "w": 0.521652937
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.040022172,
+      "y": -0.6220068,
+      "z": -0.08483502
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.406776965,
+      "y": 0.08274034,
+      "z": 0.12826547
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778009965514,
+    "Name": "Barrel",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_133_Submerged.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.52301407,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.278603047,
+      "y": 0.99999994,
+      "z": 0.499629825,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/799420719ed4558e1f7cf619e740e5a7.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.040014483,
+      "y": -1.02778828,
+      "z": -0.03301264
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.404597431,
+      "y": 0.08172272,
+      "z": 0.177103832
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778009965514,
+    "Name": "Pistol Grip",
+    "Texture": "camos/EFT Arena/Desert_Night_Camo_Green_pattern.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.761838555,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/xx_MW19_topo_VectorTrails.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400215,
+      "y": -0.191660777,
+      "z": -0.168579549
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.1787146,
+      "y": 0.07300704,
+      "z": 0.2345833
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  }
+]

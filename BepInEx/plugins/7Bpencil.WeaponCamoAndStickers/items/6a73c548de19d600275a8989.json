@@ -1,0 +1,50 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1785973677701,
+    "Name": "",
+    "Texture": "camos/Bandoot/ab689603a427930cb69d5ad4db5c255ccd334133.mp4",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.296105,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.979224
+    },
+    "Mask": "masks/7Bpencil/d5688321ca12f437dac4053f8cdb81b4.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.356367141,
+      "z": -0.054086864
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.8814714,
+      "y": 0.04,
+      "z": 0.215942949
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]

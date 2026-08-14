@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1785992147849,
+  "Materials": {
+    "item_equipment_headset_comtac6_exfil": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.5723044,
+        "y": 0.5355805,
+        "z": 0.5580524
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Glossness": 0.01,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Texture": "",
+      "TextureUV": {
+        "x": 1.06428576,
+        "y": 1.06428576,
+        "z": -1.0,
+        "w": -1.0
+      },
+      "SpecVals": {
+        "x": 3.0,
+        "y": 3.0
+      },
+      "DefVals": {
+        "x": 0.0552994832,
+        "y": 3.0
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

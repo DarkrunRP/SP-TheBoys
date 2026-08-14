@@ -1,0 +1,230 @@
+[
+  {
+    "Texture": "stickers/7Bpencil/berserk/channels4_banner",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.0259969346,
+      "y": -0.4278057,
+      "z": 0.0134729231
+    },
+    "LocalEulerAngles": {
+      "x": 359.5098,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.469289243,
+      "y": 0.026,
+      "z": 0.1954608
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "Texture": "stickers/7Bpencil/berserk/9d39a7f7-c056-4078-bac7-ba7e5a328955_85173f4b-7d0a-480e-99bf-1eb866f5e76c",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.0260000937,
+      "y": -0.407412559,
+      "z": -0.134314165
+    },
+    "LocalEulerAngles": {
+      "x": 358.061035,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.2,
+      "y": 0.026,
+      "z": 0.2089674
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "Texture": "stickers/7Bpencil/berserk/1702590224_new_1533101438831",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.0400334522,
+      "y": -0.3798937,
+      "z": 0.0306545123
+    },
+    "LocalEulerAngles": {
+      "x": 359.375366,
+      "y": 0.0,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": 0.5765845,
+      "y": 0.04,
+      "z": 0.360453337
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "Texture": "stickers/7Bpencil/berserk/9d39a7f7-c056-4078-bac7-ba7e5a328955_85173f4b-7d0a-480e-99bf-1eb866f5e76c",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.0400097854,
+      "y": -0.432851553,
+      "z": -0.135140032
+    },
+    "LocalEulerAngles": {
+      "x": 358.0962,
+      "y": 0.0,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": 0.2,
+      "y": 0.04,
+      "z": 0.208967417
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "Texture": "stickers/7Bpencil/blood/png-transparent-red-splat-blood-residue-bloodstain-miscellaneous-ink-computer-wallpaper",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.04000831,
+      "y": -0.6569065,
+      "z": -0.02974777
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.5116335,
+      "y": 0.04,
+      "z": 0.469924271
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "Texture": "stickers/7Bpencil/blood/png-transparent-blood-splattered-spray-love-miscellaneous-heart",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.0399944559,
+      "y": -0.6588426,
+      "z": -0.0249786209
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": 0.395067722,
+      "y": 0.04,
+      "z": 0.2546469
+    },
+    "MaxAngle": 0.5
+  }
+]

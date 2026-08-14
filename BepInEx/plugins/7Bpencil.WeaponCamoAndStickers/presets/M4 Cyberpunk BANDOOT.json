@@ -1,0 +1,508 @@
+[
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779175595823,
+    "Name": "ERASE MAG. CLICK EYE ICON?",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.07450099,
+      "y": -0.3900141,
+      "z": -0.196301088
+    },
+    "LocalEulerAngles": {
+      "x": 350.9933,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.155360445,
+      "y": 0.149942026,
+      "z": 0.2398044
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": false,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779175595823,
+    "Name": "Body",
+    "Texture": "camos/Bandoot/Lucy.png",
+    "TextureUV": {
+      "x": 0.271969765,
+      "y": 0.0592611879,
+      "z": 0.8120474,
+      "w": 0.369869381
+    },
+    "TextureAngle": -8.132842,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0355627462,
+      "y": -0.296002716,
+      "z": -0.06887197
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.2246335,
+      "y": 0.07225871,
+      "z": 0.181894243
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779175595823,
+    "Name": "Handguard",
+    "Texture": "camos/Bandoot/Lucy.png",
+    "TextureUV": {
+      "x": 0.08159731,
+      "y": 1.16797757,
+      "z": 2.28764415,
+      "w": 0.335377663
+    },
+    "TextureAngle": -7.601874,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/dust 90.png",
+    "MaskUV": {
+      "x": -0.0278189536,
+      "y": 0.184952468,
+      "z": 1.01312959,
+      "w": 0.837061
+    },
+    "MaskAngle": -1.12897837,
+    "LocalPosition": {
+      "x": -0.0819475353,
+      "y": -0.63366276,
+      "z": 0.004671872
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -270.0
+    },
+    "LocalScale": {
+      "x": -0.556285262,
+      "y": 0.178694516,
+      "z": 0.1449842
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779175595823,
+    "Name": "Buttstock",
+    "Texture": "camos/Bandoot/Lucy.png",
+    "TextureUV": {
+      "x": 0.4217703,
+      "y": -1.1115036,
+      "z": 0.888695836,
+      "w": 0.3449103
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/disc.png",
+    "MaskUV": {
+      "x": 0.09016322,
+      "y": -0.142803639,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04002147,
+      "y": -0.05732509,
+      "z": -0.0793971
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.3070581,
+      "y": 0.07116355,
+      "z": 0.211861014
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779175595823,
+    "Name": "Scopes",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_140_Tornado.png",
+    "TextureUV": {
+      "x": -0.05396902,
+      "y": 0.351065725,
+      "z": 2.125557,
+      "w": 0.7761135
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.7698001
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0791284442,
+      "y": -0.511080265,
+      "z": 0.103323855
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.669440269,
+      "y": 0.157401085,
+      "z": 0.162957013
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779175595823,
+    "Name": "Scopes Mask",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_140_Tornado.png",
+    "TextureUV": {
+      "x": -0.05396902,
+      "y": 0.351065725,
+      "z": 2.125557,
+      "w": 0.7761135
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.172281235,
+      "y": 0.958459854,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/7287cec2bec15fdae3eed86e90dcc4fa.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.08229895,
+      "y": -0.5110682,
+      "z": 0.103322484
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.669440269,
+      "y": 0.164474055,
+      "z": 0.162957013
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779175595823,
+    "Name": "Mag",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_140_Tornado.png",
+    "TextureUV": {
+      "x": 0.2638394,
+      "y": 2.286389E-05,
+      "z": 0.534335,
+      "w": 1.24689007
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.7698001
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.06265383,
+      "y": -0.3955467,
+      "z": -0.194090918
+    },
+    "LocalEulerAngles": {
+      "x": 350.070435,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.1787146,
+      "y": 0.128602028,
+      "z": 0.2345833
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779175595823,
+    "Name": "Mag Mask",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_140_Tornado.png",
+    "TextureUV": {
+      "x": 0.2638394,
+      "y": 2.286389E-05,
+      "z": 0.534335,
+      "w": 1.24689007
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.172281235,
+      "y": 0.958459854,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/7287cec2bec15fdae3eed86e90dcc4fa.png",
+    "MaskUV": {
+      "x": -0.327390045,
+      "y": 0.334228426,
+      "z": 0.577221751,
+      "w": 0.577221751
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.06265383,
+      "y": -0.3955467,
+      "z": -0.194090918
+    },
+    "LocalEulerAngles": {
+      "x": 350.070435,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.1787146,
+      "y": 0.128602028,
+      "z": 0.2345833
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779175595823,
+    "Name": "Grip/Lights",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_140_Tornado.png",
+    "TextureUV": {
+      "x": 0.248753756,
+      "y": 0.301087379,
+      "z": 1.70166671,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.172281235,
+      "y": 0.958459854,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0483919568,
+      "y": -0.62904495,
+      "z": -0.08930698
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.406776965,
+      "y": 0.08782605,
+      "z": 0.12826547
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779175595823,
+    "Name": "Barrel",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_140_Tornado.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.52301407,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.172281235,
+      "y": 0.958459854,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/f951ad40fc534b41a70cec94b41a2bc1.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.040014483,
+      "y": -1.02778828,
+      "z": -0.03301264
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.404597431,
+      "y": 0.08583444,
+      "z": 0.177103832
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779175595823,
+    "Name": "",
+    "Texture": "stickers/Bandoot/Cybertark.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.701800048
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400031731,
+      "y": -0.28667897,
+      "z": -0.0125448462
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.11209847,
+      "y": 0.04,
+      "z": 0.0612631179
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "EnabledNoFlip",
+    "PaintMode": "Paint"
+  }
+]

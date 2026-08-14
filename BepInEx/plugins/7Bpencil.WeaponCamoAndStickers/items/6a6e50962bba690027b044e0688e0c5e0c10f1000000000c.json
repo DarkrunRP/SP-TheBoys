@@ -1,0 +1,50 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1786593325468,
+    "Name": "Canadian Patch Arm",
+    "Texture": "stickers/spirits-embroidery/Flag_of_Canada.svg.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "Root_Joint/Base HumanPelvis/Base HumanSpine1/Base HumanSpine2/Base HumanSpine3/Base HumanRibcage/Base HumanRCollarbone/Base HumanRUpperarm",
+    "LocalPosition": {
+      "x": -0.102124095,
+      "y": -0.06410051,
+      "z": 0.118179336
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 83.0,
+      "z": 84.0
+    },
+    "LocalScale": {
+      "x": 0.05511503,
+      "y": 0.107330732,
+      "z": 0.0463851728
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 1
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1785728890189,
+  "Materials": {
+    "item_equipment_facecover_devtac_gen2": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5188679
+      },
+      "Glossness": 1.0,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.3301887
+      },
+      "Texture": "camos/UtanuManer/Black Market Imports/Industrial Grade/Industrial Grade_Skin_112_Spectrogram.png",
+      "TextureUV": {
+        "x": 6.244642,
+        "y": 6.244642,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.1,
+        "y": 2.0
+      },
+      "DefVals": {
+        "x": 0.8,
+        "y": 0.7
+      },
+      "CompensateSpecular": true
+    },
+    "item_equipment_facecover_devtac_gen2_glass": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Glossness": 0.95,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5660378
+      },
+      "Texture": "camos/UtanuManer/Colors/Color_1_Texture_Black.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.1,
+        "y": 2.0
+      },
+      "DefVals": {
+        "x": 0.6,
+        "y": 0.7
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

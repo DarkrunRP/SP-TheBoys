@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1785729257009,
+  "Materials": {
+    "pps_43_main_tex_d": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5411765
+      },
+      "Glossness": 1.28,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.305882365
+      },
+      "Texture": "camos/HiredOpsCamo/311_camo_texture.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1785951519995,
+  "Materials": {
+    "silencer_p90_fn_p90_attenuator_57x28": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7075472
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.6698113
+      },
+      "Glossness": 1.15,
+      "Specularness": 2.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.490566015
+      },
+      "Texture": "camos/HiredOpsCamo/115_camo_texture.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

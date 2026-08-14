@@ -1,0 +1,876 @@
+[
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "ERASE MAG. CLICK EYE ICON?",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.07451028,
+      "y": -0.4794167,
+      "z": -0.208803952
+    },
+    "LocalEulerAngles": {
+      "x": 349.136047,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.155360445,
+      "y": 0.149942026,
+      "z": 0.2398044
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": false,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "Body",
+    "Texture": "camos/Bandoot/spiderman-across-the-spiderverse-moewalls-com.mp4",
+    "TextureUV": {
+      "x": -0.04659643,
+      "y": -0.291579366,
+      "z": 1.52851427,
+      "w": 1.52851427
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0355876833,
+      "y": -0.41053167,
+      "z": -0.09254138
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.283325434,
+      "y": 0.07225871,
+      "z": 0.229419321
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "ERASER PLACEMENT DO NOT TOUCH",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.03634072,
+      "y": -0.35064885,
+      "z": -0.124063
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.0800224841,
+      "y": 0.073536,
+      "z": 0.0800224841
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "Body Orange",
+    "Texture": "camos/Nkstuf/Patterns/BO3_samuraibnw.png",
+    "TextureUV": {
+      "x": 0.0297969431,
+      "y": 0.0257922448,
+      "z": 1.03386176,
+      "w": 0.83715713
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0383651778,
+      "y": 0.99999994,
+      "z": 0.8334565,
+      "w": 1.0
+    },
+    "Mask": "masks/Bandoot/Cloud Mask.png",
+    "MaskUV": {
+      "x": 0.0370403454,
+      "y": -0.280773878,
+      "z": 1.32372069,
+      "w": 2.14453149
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0356063768,
+      "y": -0.417720318,
+      "z": -0.0636531562
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.17363435,
+      "y": 0.07225871,
+      "z": 0.140598327
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "Body Purple",
+    "Texture": "camos/Nkstuf/Patterns/BO3_samuraibnw.png",
+    "TextureUV": {
+      "x": 0.0266311988,
+      "y": 0.01068615,
+      "z": 1.03386188,
+      "w": 0.83715713
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.812260747,
+      "y": 0.665610254,
+      "z": 0.403950453,
+      "w": 1.0
+    },
+    "Mask": "masks/Bandoot/Cloud Mask.png",
+    "MaskUV": {
+      "x": 0.0370403454,
+      "y": -0.280773878,
+      "z": 1.32372069,
+      "w": 2.14453149
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0355999768,
+      "y": -0.416684717,
+      "z": -0.0681635
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.19136925,
+      "y": 0.07225871,
+      "z": 0.154958948
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "Body White",
+    "Texture": "camos/Nkstuf/Patterns/BO3_samuraiblue.png",
+    "TextureUV": {
+      "x": 0.0323065855,
+      "y": 0.005765581,
+      "z": 1.02884066,
+      "w": 0.8330912
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/Bandoot/Cloud Mask.png",
+    "MaskUV": {
+      "x": 0.0370403454,
+      "y": -0.280773878,
+      "z": 1.32372069,
+      "w": 2.14453149
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0355927572,
+      "y": -0.415320963,
+      "z": -0.07412259
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.218362227,
+      "y": 0.07225871,
+      "z": 0.176816165
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "Body blue",
+    "Texture": "camos/Nkstuf/Patterns/BO3_samuraiblue.png",
+    "TextureUV": {
+      "x": 0.041896157,
+      "y": 0.00576839224,
+      "z": 1.02884066,
+      "w": 0.8330912
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.6274193,
+      "y": 0.9482286,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "Mask": "masks/Bandoot/Cloud Mask.png",
+    "MaskUV": {
+      "x": 0.0370403454,
+      "y": -0.280773878,
+      "z": 1.32372069,
+      "w": 2.14453149
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0355898961,
+      "y": -0.411848158,
+      "z": -0.08137588
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.251746774,
+      "y": 0.07225871,
+      "z": 0.2038489
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "ERASER PLACEMENT DO NOT TOUCH",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04005184,
+      "y": -0.378040582,
+      "z": -0.117064938
+    },
+    "LocalEulerAngles": {
+      "x": 12.3483,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.0586507134,
+      "y": 0.0792025,
+      "z": 0.0800224841
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "ERASER PLACEMENT DO NOT TOUCH",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04007777,
+      "y": -0.5091757,
+      "z": -0.0169185251
+    },
+    "LocalEulerAngles": {
+      "x": 30.9924488,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.03697461,
+      "y": 0.0792025,
+      "z": 0.104578525
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "Handguard",
+    "Texture": "camos/Bandoot/Final Work Lunar Tears ffff.mp4",
+    "TextureUV": {
+      "x": 0.284252256,
+      "y": 2.16246986,
+      "z": 0.0503538027,
+      "w": 0.0233309735
+    },
+    "TextureAngle": -7.601874,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.2549382,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": -0.105000824,
+      "y": -0.08884571,
+      "z": 0.8548388,
+      "w": 0.837061
+    },
+    "MaskAngle": -1.12897837,
+    "LocalPosition": {
+      "x": -0.08196425,
+      "y": -0.789082468,
+      "z": 0.004671784
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -270.0
+    },
+    "LocalScale": {
+      "x": -0.556285262,
+      "y": 0.178694516,
+      "z": -0.1449842
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "Handguard Decal",
+    "Texture": "camos/Nkstuf/Animal Skin n Fur/Tiger_Shark.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.783862,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/airmesh.png",
+    "MaskUV": {
+      "x": 0.219295546,
+      "y": 0.0,
+      "z": 0.8526287,
+      "w": 0.989357054
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400227979,
+      "y": -0.6659805,
+      "z": -0.0126367044
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.3016475,
+      "y": 0.04,
+      "z": 0.330428779
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "ERASER PLACEMENT DO NOT TOUCH",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0363374427,
+      "y": -0.7177779,
+      "z": 0.0490911752
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.150042072,
+      "y": 0.073536,
+      "z": 0.0800224841
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "Scopes",
+    "Texture": "camos/Nkstuf/Animal Skin n Fur/Arapaima_Scales.png",
+    "TextureUV": {
+      "x": -0.05396902,
+      "y": 0.351065725,
+      "z": 2.125557,
+      "w": 0.7761135
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.08191195,
+      "y": -0.51107043,
+      "z": 0.103322178
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.669440269,
+      "y": 0.163016886,
+      "z": 0.162957013
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "Scopes Mask",
+    "Texture": "camos/Nkstuf/Animal Skin n Fur/Tiger_Shark.png",
+    "TextureUV": {
+      "x": -0.05513353,
+      "y": 0.351050884,
+      "z": 1.91555262,
+      "w": 0.7761135
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/kryptek2.png",
+    "MaskUV": {
+      "x": 0.026180841,
+      "y": 0.001204935,
+      "z": 1.31589651,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.08295652,
+      "y": -0.45802322,
+      "z": 0.1033231
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.669440269,
+      "y": 0.165364623,
+      "z": 0.162957013
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "Buttstock",
+    "Texture": "camos/Bandoot/Final Work Lunar Tears ffff.mp4",
+    "TextureUV": {
+      "x": 0.6162235,
+      "y": 0.901684344,
+      "z": 0.08604817,
+      "w": 0.105547912
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.2549382,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04008448,
+      "y": -0.138078824,
+      "z": -0.0487521
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.3070581,
+      "y": 0.07116355,
+      "z": -0.211861014
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "Buttstock Decal",
+    "Texture": "camos/Nkstuf/Animal Skin n Fur/Tiger_Shark.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/kryptek2.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400095955,
+      "y": -0.1400913,
+      "z": 0.00567861
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.330428779,
+      "y": 0.04,
+      "z": 0.330428779
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "Grip/Lights",
+    "Texture": "camos/Nkstuf/Fun/Biolum.png",
+    "TextureUV": {
+      "x": 0.248753756,
+      "y": 0.301087379,
+      "z": 3.17136765,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04839755,
+      "y": -0.7018059,
+      "z": -0.110957608
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.406776965,
+      "y": 0.08782605,
+      "z": 0.12826547
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "Mag",
+    "Texture": "camos/Nkstuf/Fun/Biolum.png",
+    "TextureUV": {
+      "x": 0.5210941,
+      "y": -0.139523283,
+      "z": 0.63328594,
+      "w": 1.24689007
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.06266549,
+      "y": -0.465835363,
+      "z": -0.204250664
+    },
+    "LocalEulerAngles": {
+      "x": 349.370056,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.1787146,
+      "y": 0.128602028,
+      "z": 0.2345833
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1779475475576,
+    "Name": "Barrel",
+    "Texture": "camos/Nkstuf/Fun/Biolum.png",
+    "TextureUV": {
+      "x": -0.031032918,
+      "y": 0.0,
+      "z": 1.52301407,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/f951ad40fc534b41a70cec94b41a2bc1.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400151238,
+      "y": -1.09224129,
+      "z": -0.0330126137
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.404597431,
+      "y": 0.08583444,
+      "z": 0.177103832
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  }
+]

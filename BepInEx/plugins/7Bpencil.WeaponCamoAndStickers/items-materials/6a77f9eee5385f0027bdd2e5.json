@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1786247931200,
+  "Materials": {
+    "muzzle_ar15_lantac_dgn556b_muzzle_brake_556x45": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.8014706
+      },
+      "Glossness": 1.0,
+      "Specularness": 2.57,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.3897059
+      },
+      "Texture": "camos/Nkstuf/Camos/BO3_jungleblue.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 0.5
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 0.5
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

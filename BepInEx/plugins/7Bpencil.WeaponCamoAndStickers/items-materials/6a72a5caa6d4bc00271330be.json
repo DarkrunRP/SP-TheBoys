@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1785951943670,
+  "Materials": {
+    "item_equipment_rig_patrol": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Glossness": 1.21,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.2735849
+      },
+      "Texture": "camos/EFT Arena/Spray_Stripes_1_pattern.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.1,
+        "y": 2.0
+      },
+      "DefVals": {
+        "x": 0.8,
+        "y": 0.7
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

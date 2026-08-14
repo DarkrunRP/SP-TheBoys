@@ -1,0 +1,370 @@
+[
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778720386925,
+    "Name": "ERASE MAG. CLICK EYE ICON?",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.076578,
+      "y": -0.3958573,
+      "z": -0.191873863
+    },
+    "LocalEulerAngles": {
+      "x": 349.420135,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.127252787,
+      "y": 0.1529225,
+      "z": 0.231669143
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": false,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1777707687454,
+    "Name": "Body",
+    "Texture": "camos/Bandoot/鸣潮 绯雪 抽卡动画 4K120hz Wuthering Waves.mp4",
+    "TextureUV": {
+      "x": 0.547846258,
+      "y": -0.0574134775,
+      "z": 0.4529348,
+      "w": 0.652015
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400065258,
+      "y": -0.3059495,
+      "z": -0.06902336
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.2246335,
+      "y": 0.07923441,
+      "z": 0.181894243
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1777707687454,
+    "Name": "Handguard",
+    "Texture": "camos/Bandoot/Wuthering Waves sur GeForce NOW 2025-12-28 20-41-40.mp4",
+    "TextureUV": {
+      "x": 0.623943269,
+      "y": 1.51858616,
+      "z": 0.543769538,
+      "w": 0.251950622
+    },
+    "TextureAngle": -16.16606,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/dust 90.png",
+    "MaskUV": {
+      "x": -0.0415895656,
+      "y": -0.1021357,
+      "z": 0.9727117,
+      "w": 0.8036671
+    },
+    "MaskAngle": -1.12897837,
+    "LocalPosition": {
+      "x": -0.08194754,
+      "y": -0.63366276,
+      "z": 0.004671872
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.556285262,
+      "y": 0.178694516,
+      "z": 0.1449842
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1777707687454,
+    "Name": "Buttstock",
+    "Texture": "camos/Bandoot/Wuthering Waves sur GeForce NOW 2025-12-28 20-41-40.mp4",
+    "TextureUV": {
+      "x": 0.649042964,
+      "y": -0.500481844,
+      "z": 0.504665434,
+      "w": 0.61902976
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/disc.png",
+    "MaskUV": {
+      "x": 0.09016322,
+      "y": -0.142803639,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400205851,
+      "y": -0.0586513653,
+      "z": -0.06749912
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.3070581,
+      "y": 0.07116355,
+      "z": 0.211861014
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1777707687454,
+    "Name": "Scopes",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_73_Indigo.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.9329592,
+      "w": 0.8213662
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.07127941,
+      "y": -0.4672543,
+      "z": 0.103351541
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.5790613,
+      "y": 0.141602278,
+      "z": 0.162957013
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1777707687454,
+    "Name": "Mag",
+    "Texture": "camos/Bandoot/Wuthering Waves 2025.04.07 - 09.40.06.01.mp4",
+    "TextureUV": {
+      "x": 0.312230974,
+      "y": -0.399740249,
+      "z": 0.534335,
+      "w": 1.24689007
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.06265383,
+      "y": -0.3955467,
+      "z": -0.194090918
+    },
+    "LocalEulerAngles": {
+      "x": 350.070435,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.1787146,
+      "y": 0.128602028,
+      "z": 0.2345833
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1777707687454,
+    "Name": "Grip/Lights",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_73_Indigo.png",
+    "TextureUV": {
+      "x": 0.2995797,
+      "y": 1.34370029,
+      "z": 2.11424518,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0483914129,
+      "y": -0.622272134,
+      "z": -0.08930698
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.406776965,
+      "y": 0.08782605,
+      "z": 0.12826547
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1777707687454,
+    "Name": "Barrel",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_93_Night.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.52301407,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/f951ad40fc534b41a70cec94b41a2bc1.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.040014483,
+      "y": -1.02778828,
+      "z": -0.03301264
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.404597431,
+      "y": 0.08583444,
+      "z": 0.177103832
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  }
+]

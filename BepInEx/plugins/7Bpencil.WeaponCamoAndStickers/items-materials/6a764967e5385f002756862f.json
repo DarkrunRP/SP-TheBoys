@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1786137244959,
+  "Materials": {
+    "barrel_ar15_260mm": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.838235259
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Glossness": 1.0,
+      "Specularness": 2.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5377358
+      },
+      "Texture": "camos/UtanuManer/Colors/Color_9_Texture_Mono_Apple.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1785900848708,
+  "Materials": {
+    "Razgruzka [Albedo]": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.9487918,
+        "y": 0.03634802,
+        "z": 0.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Glossness": 1.0,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.272058845
+      },
+      "Texture": "",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.1,
+        "y": 2.0
+      },
+      "DefVals": {
+        "x": 0.7,
+        "y": 0.5
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

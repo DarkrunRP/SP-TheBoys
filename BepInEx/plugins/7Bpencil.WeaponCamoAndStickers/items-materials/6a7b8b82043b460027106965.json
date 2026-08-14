@@ -1,0 +1,78 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1786505597938,
+  "Materials": {
+    "xmaterial_7828f9ddfdc1fceb": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5
+      },
+      "Glossness": 1.92714286,
+      "Specularness": 0.3,
+      "ReflectColorHSV": {
+        "x": 0.7198881,
+        "y": 0.5500453,
+        "z": 0.172284648
+      },
+      "Texture": "camos/ChampionOfLight/Solid_Yellow_pattern.png",
+      "TextureUV": {
+        "x": 2.30178571,
+        "y": 2.30178571,
+        "z": -0.357142866,
+        "w": 0.214285716
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 0.612903237,
+        "y": 2.451613
+      },
+      "CompensateSpecular": true
+    },
+    "xmaterial_44cef30b0ecf340c": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.13333334
+      },
+      "Glossness": 0.5,
+      "Specularness": 0.3,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Texture": "camos/HiredOpsCamo/76_camo_texture.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

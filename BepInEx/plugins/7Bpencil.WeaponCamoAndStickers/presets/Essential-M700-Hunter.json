@@ -1,0 +1,78 @@
+[
+  {
+    "Texture": "camos/ChampionOfLight/bottomland",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 3.06287074,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.425
+    },
+    "Mask": "masks/7Bpencil/d5688321ca12f437dac4053f8cdb81b4",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.02633071,
+      "w": 0.9827659
+    },
+    "LocalPosition": {
+      "x": -0.0400047563,
+      "y": -0.390466869,
+      "z": -0.0207423139
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 1.1624521,
+      "y": 0.04,
+      "z": 0.257101148
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "Texture": "camos/ChampionOfLight/bottomland",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 3.06287074,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.425
+    },
+    "Mask": "masks/7Bpencil/d5688321ca12f437dac4053f8cdb81b4",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.02633071,
+      "w": 0.9827659
+    },
+    "LocalPosition": {
+      "x": 0.0400047563,
+      "y": -0.390466869,
+      "z": -0.0207423139
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -90.0
+    },
+    "LocalScale": {
+      "x": 1.1624521,
+      "y": 0.04,
+      "z": 0.257101148
+    },
+    "MaxAngle": 0.5
+  }
+]

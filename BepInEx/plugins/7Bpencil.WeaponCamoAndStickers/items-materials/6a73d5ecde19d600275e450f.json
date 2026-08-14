@@ -1,0 +1,78 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1785976865172,
+  "Materials": {
+    "facecover_strikeball_mask": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Glossness": 1.0,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.3301887
+      },
+      "Texture": "camos/UtanuManer/Tarkov Like/TarkovLike_Camo_8_BEAR-Inspired Red & Black.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.1,
+        "y": 2.0
+      },
+      "DefVals": {
+        "x": 0.8,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    },
+    "facecover_strikeball_mask_lens": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.7292762,
+        "y": 0.9737606,
+        "z": 1.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Glossness": 1.0,
+      "Specularness": 3.57,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5471698
+      },
+      "Texture": "",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.1,
+        "y": 2.0
+      },
+      "DefVals": {
+        "x": 0.8,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

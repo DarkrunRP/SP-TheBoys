@@ -1,0 +1,416 @@
+[
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780021326179,
+    "Name": "ERASE MAG. CLICK EYE ICON?",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.08182616,
+      "y": -0.4422927,
+      "z": -0.129812613
+    },
+    "LocalEulerAngles": {
+      "x": 358.24704,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.122647829,
+      "y": 0.163064167,
+      "z": 0.2
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": false,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780021326179,
+    "Name": "Pistol Grip",
+    "Texture": "camos/Bandoot/ab689603a427930cb69d5ad4db5c255ccd334133.mp4",
+    "TextureUV": {
+      "x": 0.314528555,
+      "y": 0.291923761,
+      "z": 1.247025,
+      "w": 0.9934038
+    },
+    "TextureAngle": -10.46907,
+    "ColorHSVA": {
+      "x": 0.8464109,
+      "y": 0.827930748,
+      "z": 0.7896299,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04003753,
+      "y": -0.33802098,
+      "z": -0.107289411
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.295873553,
+      "y": 0.08057264,
+      "z": 0.235698476
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780021326179,
+    "Name": "Body",
+    "Texture": "camos/Bandoot/Denia Animated.mp4",
+    "TextureUV": {
+      "x": 0.124171913,
+      "y": 0.495184928,
+      "z": 1.36725855,
+      "w": 0.5748372
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/dust 90.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.971387267,
+      "w": 0.382304341
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0460689,
+      "y": -0.301978618,
+      "z": 0.007258543
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.432422519,
+      "y": 0.09204171,
+      "z": 0.102264524
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780021326179,
+    "Name": "Handguard",
+    "Texture": "camos/Bandoot/Denia Animated.mp4",
+    "TextureUV": {
+      "x": -0.786552668,
+      "y": 0.734279156,
+      "z": 0.435426861,
+      "w": 0.250653774
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/dust 90.png",
+    "MaskUV": {
+      "x": 0.0738825351,
+      "y": 0.1871143,
+      "z": 0.88829726,
+      "w": 1.03461063
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0669204,
+      "y": -0.6733201,
+      "z": 0.0303983353
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.4940094,
+      "y": 0.133712083,
+      "z": 0.185462222
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780021326179,
+    "Name": "Scopes",
+    "Texture": "camos/Bandoot/ab689603a427930cb69d5ad4db5c255ccd334133.mp4",
+    "TextureUV": {
+      "x": 0.325829,
+      "y": 0.202382728,
+      "z": 1.932934,
+      "w": 0.740871251
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.8464109,
+      "y": 0.827930748,
+      "z": 0.7896299,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.08376291,
+      "y": -0.423954427,
+      "z": 0.131107256
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.580130458,
+      "y": 0.165571138,
+      "z": 0.17720753
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780021326179,
+    "Name": "Mag",
+    "Texture": "camos/Bandoot/ab689603a427930cb69d5ad4db5c255ccd334133.mp4",
+    "TextureUV": {
+      "x": 0.146509275,
+      "y": -0.032940045,
+      "z": 0.337468028,
+      "w": 0.881697237
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.8464109,
+      "y": 0.827930748,
+      "z": 0.7896299,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.9250786,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0615938753,
+      "y": -0.459878534,
+      "z": -0.16581668
+    },
+    "LocalEulerAngles": {
+      "x": 358.299957,
+      "y": 0.7238859,
+      "z": 89.6217651
+    },
+    "LocalScale": {
+      "x": 0.158440739,
+      "y": 0.109229445,
+      "z": 0.27597037
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780021326179,
+    "Name": "Grip/Lights",
+    "Texture": "camos/Bandoot/ab689603a427930cb69d5ad4db5c255ccd334133.mp4",
+    "TextureUV": {
+      "x": -0.018196566,
+      "y": 0.417311251,
+      "z": 0.8111069,
+      "w": 0.255759358
+    },
+    "TextureAngle": -180.749374,
+    "ColorHSVA": {
+      "x": 0.8464109,
+      "y": 0.827930748,
+      "z": 0.7896299,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04005023,
+      "y": -0.6867946,
+      "z": -0.09310673
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.406776965,
+      "y": 0.0794454142,
+      "z": 0.12826547
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780021326179,
+    "Name": "Buttstock",
+    "Texture": "camos/Bandoot/Denia Animated.mp4",
+    "TextureUV": {
+      "x": -0.9462197,
+      "y": -0.3673723,
+      "z": 0.349902183,
+      "w": 0.3976785
+    },
+    "TextureAngle": -174.972488,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/799420719ed4558e1f7cf619e740e5a7.png",
+    "MaskUV": {
+      "x": 0.113663658,
+      "y": -0.383912146,
+      "z": 0.79484266,
+      "w": 0.79484266
+    },
+    "MaskAngle": 258.457062,
+    "LocalPosition": {
+      "x": -0.0400219932,
+      "y": -0.025272755,
+      "z": -0.06423416
+    },
+    "LocalEulerAngles": {
+      "x": 9.605027,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.424926728,
+      "y": 0.07962142,
+      "z": 0.271657735
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780021326179,
+    "Name": "Barrel",
+    "Texture": "camos/Bandoot/ab689603a427930cb69d5ad4db5c255ccd334133.mp4",
+    "TextureUV": {
+      "x": 0.308770239,
+      "y": 1.46793139,
+      "z": 0.825903356,
+      "w": 0.542282164
+    },
+    "TextureAngle": 18.7102623,
+    "ColorHSVA": {
+      "x": 0.8464109,
+      "y": 0.827930748,
+      "z": 0.7896299,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/f951ad40fc534b41a70cec94b41a2bc1.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04001774,
+      "y": -0.996070147,
+      "z": -0.0227227546
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.404597431,
+      "y": 0.08017218,
+      "z": 0.177103832
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  }
+]

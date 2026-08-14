@@ -1,0 +1,462 @@
+[
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778576202284,
+    "Name": "Handguard",
+    "Texture": "camos/Bandoot/Wuthering Waves 2025.03.30 - 20.53.33.10 - Trim.mp4",
+    "TextureUV": {
+      "x": 0.01984205,
+      "y": -0.0161990989,
+      "z": 1.58446789,
+      "w": 0.711580455
+    },
+    "TextureAngle": 11.5408716,
+    "ColorHSVA": {
+      "x": 0.4056279,
+      "y": 0.44523412,
+      "z": 0.8940746,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/dust.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0814519,
+      "y": -0.6221378,
+      "z": 0.0014586444
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.631732047,
+      "y": 0.151780084,
+      "z": 0.158362225
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778576202284,
+    "Name": "Body",
+    "Texture": "camos/Bandoot/firefly.mp4",
+    "TextureUV": {
+      "x": -0.008901252,
+      "y": -0.123972744,
+      "z": 0.6787301,
+      "w": 0.9919676
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0399870872,
+      "y": -0.3190635,
+      "z": -0.052509
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.1982212,
+      "y": 0.08855489,
+      "z": 0.162957013
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778576202284,
+    "Name": "Scopes",
+    "Texture": "camos/Bandoot/Arknights Wallpaper 3 FULL.mp4",
+    "TextureUV": {
+      "x": -0.141717941,
+      "y": -0.289594442,
+      "z": 2.05267334,
+      "w": 0.9664041
+    },
+    "TextureAngle": 21.1196938,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04003609,
+      "y": -0.509917,
+      "z": 0.104258396
+    },
+    "LocalEulerAngles": {
+      "x": 1.00179177E-05,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.6512932,
+      "y": 0.08034396,
+      "z": -0.162957013
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778576202284,
+    "Name": "Pistol Grip",
+    "Texture": "camos/Bandoot/firefly.mp4",
+    "TextureUV": {
+      "x": -0.779869437,
+      "y": -0.5974057,
+      "z": 0.498834431,
+      "w": 1.16404819
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.040025413,
+      "y": -0.2053121,
+      "z": -0.150673211
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.151829243,
+      "y": 0.08183054,
+      "z": 0.1992932
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778576202284,
+    "Name": "Pistol Grip mask",
+    "Texture": "camos/Bandoot/firefly.mp4",
+    "TextureUV": {
+      "x": -0.6625151,
+      "y": -0.737610936,
+      "z": 0.498834431,
+      "w": 1.16404819
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/xx_MW19_tiger_Overgrown_Transparent.png",
+    "MaskUV": {
+      "x": 0.006780784,
+      "y": -0.0297498032,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400282666,
+      "y": -0.205306813,
+      "z": -0.212542
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.151829243,
+      "y": 0.06219915,
+      "z": 0.1992932
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778576202284,
+    "Name": "Buttstock",
+    "Texture": "camos/Bandoot/Wuthering Waves 2025.03.30 - 20.53.33.10 - Trim.mp4",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.8152523,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.4399112,
+      "y": 0.516993046,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/disc.png",
+    "MaskUV": {
+      "x": 0.09016322,
+      "y": -0.142803639,
+      "z": 0.7973977,
+      "w": 1.0
+    },
+    "MaskAngle": -9.789464,
+    "LocalPosition": {
+      "x": -0.04001998,
+      "y": -0.06634648,
+      "z": -0.06749735
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.3070581,
+      "y": 0.07809641,
+      "z": 0.211861014
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778576202284,
+    "Name": "Grip/Lights",
+    "Texture": "camos/Bandoot/Arknights Wallpaper 3 FULL.mp4",
+    "TextureUV": {
+      "x": 0.124961421,
+      "y": -0.664488852,
+      "z": 1.93675792,
+      "w": 0.844218135
+    },
+    "TextureAngle": 34.28417,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0346903242,
+      "y": -0.6801285,
+      "z": -0.08930907
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.5231279,
+      "y": 0.06211062,
+      "z": -0.12826547
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778576202284,
+    "Name": "Mag",
+    "Texture": "camos/Bandoot/firefly.mp4",
+    "TextureUV": {
+      "x": 0.295726478,
+      "y": -0.711314738,
+      "z": 0.640831,
+      "w": 1.34736156
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.06265383,
+      "y": -0.3955467,
+      "z": -0.194090918
+    },
+    "LocalEulerAngles": {
+      "x": 350.070435,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.1787146,
+      "y": 0.1259128,
+      "z": 0.2345833
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778576202284,
+    "Name": "Mag 2",
+    "Texture": "camos/Bandoot/Wuthering Waves 2025.03.30 - 20.53.33.10 - Trim.mp4",
+    "TextureUV": {
+      "x": 0.351163924,
+      "y": -0.05760447,
+      "z": 0.534335,
+      "w": 1.24689007
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.341852278,
+      "y": 0.455802619,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/dust.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.06265836,
+      "y": -0.3908517,
+      "z": -0.213554576
+    },
+    "LocalEulerAngles": {
+      "x": 350.070435,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.1787146,
+      "y": 0.119836532,
+      "z": 0.2345833
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778576202284,
+    "Name": "Barrel",
+    "Texture": "camos/Bandoot/Arknights Wallpaper 3 FULL.mp4",
+    "TextureUV": {
+      "x": -0.4723887,
+      "y": -1.388421,
+      "z": 1.28504312,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/f951ad40fc534b41a70cec94b41a2bc1.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.040014483,
+      "y": -1.02778828,
+      "z": -0.03301264
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.404597431,
+      "y": 0.07449329,
+      "z": 0.177103832
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  }
+]

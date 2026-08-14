@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1785900814426,
+  "Materials": {
+    "item_equipment_armor_6b23_digital": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.757352948
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5
+      },
+      "Glossness": 1.7,
+      "Specularness": 1.5,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Texture": "camos/zovchernobyl/tGmf6dCazShCuIBniZ_V-5gCyI9OqcdhPTr-lO7_GVF6MTeQ0wPGmepl6Avv-VAqCS0B7iSl4dBt8L7dpYT-qfAt.png",
+      "TextureUV": {
+        "x": 1.9,
+        "y": 1.9,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 0.2
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 0.2
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

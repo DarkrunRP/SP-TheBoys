@@ -1,0 +1,78 @@
+[
+  {
+    "Texture": "camos/7Bpencil/military-sand-color-camo-endless-wallpaper-abstract-grey-camouflage-seamless-pattern-vector",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 3.60920477,
+      "w": 1.48258209
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.635
+    },
+    "Mask": "masks/7Bpencil/f951ad40fc534b41a70cec94b41a2bc1",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.25258076,
+      "w": 1.25258076
+    },
+    "LocalPosition": {
+      "x": -0.0644611,
+      "y": -0.373144954,
+      "z": -0.0470942147
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 1.03901565,
+      "y": 0.09788273,
+      "z": 0.426804841
+    },
+    "MaxAngle": 0.355
+  },
+  {
+    "Texture": "camos/7Bpencil/military-sand-color-camo-endless-wallpaper-abstract-grey-camouflage-seamless-pattern-vector",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 3.60920477,
+      "w": 1.48258209
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.635
+    },
+    "Mask": "masks/7Bpencil/f951ad40fc534b41a70cec94b41a2bc1",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.25258076,
+      "w": 1.25258076
+    },
+    "LocalPosition": {
+      "x": 0.0644611,
+      "y": -0.373144954,
+      "z": -0.0470942147
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -90.0
+    },
+    "LocalScale": {
+      "x": 1.03901565,
+      "y": 0.09788273,
+      "z": 0.426804841
+    },
+    "MaxAngle": 0.355
+  }
+]

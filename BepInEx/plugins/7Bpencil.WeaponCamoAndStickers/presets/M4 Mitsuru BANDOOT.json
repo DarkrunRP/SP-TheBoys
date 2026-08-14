@@ -1,0 +1,370 @@
+[
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778694641281,
+    "Name": "ERASE MAG. CLICK EYE ICON?",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.08736759,
+      "y": -0.3974264,
+      "z": -0.200532749
+    },
+    "LocalEulerAngles": {
+      "x": 349.686768,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.130150408,
+      "y": 0.174791023,
+      "z": 0.250232071
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": false,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778376785177,
+    "Name": "Body",
+    "Texture": "camos/Bandoot/Mitsuru animated wallpaper.mp4",
+    "TextureUV": {
+      "x": -0.233547539,
+      "y": -0.186072722,
+      "z": 0.5987595,
+      "w": 0.8619346
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400118157,
+      "y": -0.295999527,
+      "z": -0.06887197
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.2246335,
+      "y": 0.07923441,
+      "z": 0.181894243
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778376785177,
+    "Name": "Handguard",
+    "Texture": "camos/Bandoot/Mitsuru animated wallpaper.mp4",
+    "TextureUV": {
+      "x": 0.6636893,
+      "y": 2.588111,
+      "z": 0.543769538,
+      "w": 0.251950622
+    },
+    "TextureAngle": -16.16606,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/dust 90.png",
+    "MaskUV": {
+      "x": -0.0278189536,
+      "y": 0.184952468,
+      "z": 1.01312959,
+      "w": 0.837061
+    },
+    "MaskAngle": -1.12897837,
+    "LocalPosition": {
+      "x": -0.08194754,
+      "y": -0.63366276,
+      "z": 0.004671872
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.556285262,
+      "y": 0.178694516,
+      "z": 0.1449842
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778376785177,
+    "Name": "Buttstock",
+    "Texture": "camos/Bandoot/Mitsuru animated wallpaper.mp4",
+    "TextureUV": {
+      "x": -0.627141058,
+      "y": -1.0957911,
+      "z": 0.2811889,
+      "w": 0.3449103
+    },
+    "TextureAngle": 118.5116,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/disc.png",
+    "MaskUV": {
+      "x": 0.09016322,
+      "y": -0.142803639,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04002147,
+      "y": -0.0573250577,
+      "z": -0.0793971
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -270.0
+    },
+    "LocalScale": {
+      "x": 0.3070581,
+      "y": 0.07116355,
+      "z": 0.211861014
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778376785177,
+    "Name": "Scopes",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_85_Mauve Aside.png",
+    "TextureUV": {
+      "x": -0.05396902,
+      "y": 0.351065725,
+      "z": 1.66805315,
+      "w": 0.7761135
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.8018772,
+      "y": 0.622671843,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.08258247,
+      "y": -0.5110718,
+      "z": 0.103322662
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.669440269,
+      "y": 0.164604321,
+      "z": 0.162957013
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778376785177,
+    "Name": "Mag",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_85_Mauve Aside.png",
+    "TextureUV": {
+      "x": 0.120734826,
+      "y": -0.04931988,
+      "z": 0.63328594,
+      "w": 1.24689007
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.8018772,
+      "y": 0.622671843,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.06265383,
+      "y": -0.3955467,
+      "z": -0.194090918
+    },
+    "LocalEulerAngles": {
+      "x": 350.070435,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.1787146,
+      "y": 0.128602028,
+      "z": 0.2345833
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778376785177,
+    "Name": "Grip/Lights",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_85_Mauve Aside.png",
+    "TextureUV": {
+      "x": 0.248753756,
+      "y": 0.301087379,
+      "z": 1.70166671,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.8018772,
+      "y": 0.622671843,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0483914129,
+      "y": -0.622272134,
+      "z": -0.08930698
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.406776965,
+      "y": 0.08782605,
+      "z": 0.12826547
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778376785177,
+    "Name": "Barrel",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_85_Mauve Aside.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.52301407,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.8018772,
+      "y": 0.622671843,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/f951ad40fc534b41a70cec94b41a2bc1.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.040014483,
+      "y": -1.02778828,
+      "z": -0.03301264
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.404597431,
+      "y": 0.08583444,
+      "z": 0.177103832
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  }
+]

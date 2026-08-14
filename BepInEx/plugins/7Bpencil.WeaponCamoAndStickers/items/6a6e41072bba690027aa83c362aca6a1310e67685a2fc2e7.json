@@ -1,0 +1,146 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1786659795972,
+    "Name": "",
+    "Texture": "stickers/ChampionOfLight/1777144765087.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/disc.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "Root_Joint/Base HumanPelvis/Base HumanSpine1/Base HumanSpine2/Base HumanSpine3/Base HumanNeck",
+    "LocalPosition": {
+      "x": -0.076,
+      "y": -0.01,
+      "z": -0.07
+    },
+    "LocalEulerAngles": {
+      "x": 12.545,
+      "y": 271.353,
+      "z": 106.472
+    },
+    "LocalScale": {
+      "x": 0.065,
+      "y": 0.08,
+      "z": 0.0733055547
+    },
+    "MaxAngle": 0.475,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 0
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1786659795972,
+    "Name": "",
+    "Texture": "stickers/spirits-embroidery/Red Phosphor.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.410000026
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "Root_Joint/Base HumanPelvis/Base HumanSpine1/Base HumanSpine2/Base HumanSpine3/Base HumanNeck/Base HumanHead",
+    "LocalPosition": {
+      "x": -0.12940377,
+      "y": 0.0163711682,
+      "z": -0.09121443
+    },
+    "LocalEulerAngles": {
+      "x": 354.98,
+      "y": 277.755,
+      "z": 79.388
+    },
+    "LocalScale": {
+      "x": 0.106,
+      "y": 0.08,
+      "z": 0.132147074
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 0
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1786659795972,
+    "Name": "",
+    "Texture": "stickers/spirits-embroidery/War.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.6,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "Root_Joint/Base HumanPelvis/Base HumanSpine1/Base HumanSpine2/Base HumanSpine3/Base HumanNeck/Base HumanHead",
+    "LocalPosition": {
+      "x": -0.118620977,
+      "y": 0.0392883234,
+      "z": 0.0876557
+    },
+    "LocalEulerAngles": {
+      "x": 354.987,
+      "y": 264.424,
+      "z": 273.614
+    },
+    "LocalScale": {
+      "x": 0.106,
+      "y": 0.08,
+      "z": 0.106
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 0
+  }
+]

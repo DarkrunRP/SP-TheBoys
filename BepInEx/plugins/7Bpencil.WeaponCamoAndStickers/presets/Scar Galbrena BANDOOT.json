@@ -1,0 +1,416 @@
+[
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780026414613,
+    "Name": "ERASE MAG. CLICK EYE ICON?",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.06478522,
+      "y": -0.4063052,
+      "z": -0.171470985
+    },
+    "LocalEulerAngles": {
+      "x": 350.2679,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.1515237,
+      "y": 0.129608855,
+      "z": 0.2
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": false,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780026414613,
+    "Name": "Handguard",
+    "Texture": "camos/Bandoot/Galbrena.mp4",
+    "TextureUV": {
+      "x": -0.637577355,
+      "y": -1.53000176,
+      "z": 0.3639054,
+      "w": 0.16857107
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/dust 90.png",
+    "MaskUV": {
+      "x": 0.010619794,
+      "y": -0.0291104689,
+      "z": 0.9727117,
+      "w": 0.8036671
+    },
+    "MaskAngle": -1.12897837,
+    "LocalPosition": {
+      "x": -0.08195463,
+      "y": -0.6337056,
+      "z": 0.0203708168
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.5496138,
+      "y": 0.178694516,
+      "z": 0.1432454
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780026414613,
+    "Name": "Body",
+    "Texture": "camos/Bandoot/Galbrena.mp4",
+    "TextureUV": {
+      "x": 0.237126768,
+      "y": -0.09012248,
+      "z": 0.6820628,
+      "w": 0.9818526
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/dust 90.png",
+    "MaskUV": {
+      "x": -0.30692938,
+      "y": -0.205075711,
+      "z": 0.6642194,
+      "w": 0.6642194
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400319733,
+      "y": -0.328901649,
+      "z": -0.06250978
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.292909831,
+      "y": 0.07923441,
+      "z": 0.237180173
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780026414613,
+    "Name": "Scopes",
+    "Texture": "camos/Bandoot/Wuthering Waves stars.mp4",
+    "TextureUV": {
+      "x": -0.173532784,
+      "y": 0.815622568,
+      "z": 0.889892757,
+      "w": 0.416705966
+    },
+    "TextureAngle": 1.4405787,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.08348215,
+      "y": -0.397176683,
+      "z": 0.130986616
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.482340336,
+      "y": 0.166156366,
+      "z": 0.161338419
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780026414613,
+    "Name": "Buttstock",
+    "Texture": "camos/Bandoot/Wuthering Waves stars.mp4",
+    "TextureUV": {
+      "x": 1.42836976,
+      "y": 0.28429845,
+      "z": 0.241602659,
+      "w": 0.246961579
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.09016322,
+      "y": -0.142803639,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400232859,
+      "y": -0.0492138863,
+      "z": -0.0307190772
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.294230729,
+      "y": 0.07116355,
+      "z": 0.1924027
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780026414613,
+    "Name": "Pistol Grip",
+    "Texture": "camos/Bandoot/Wuthering Waves stars.mp4",
+    "TextureUV": {
+      "x": -0.686705947,
+      "y": -0.15288502,
+      "z": 0.5837142,
+      "w": 0.7661914
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400259,
+      "y": -0.2053121,
+      "z": -0.149772465
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.150661215,
+      "y": 0.07119043,
+      "z": 0.197760031
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": false,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780026414613,
+    "Name": "Mag",
+    "Texture": "camos/Bandoot/Wuthering Waves stars.mp4",
+    "TextureUV": {
+      "x": -0.0442483053,
+      "y": -0.112025782,
+      "z": 0.949928939,
+      "w": 1.24689007
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.06265925,
+      "y": -0.394938856,
+      "z": -0.190490529
+    },
+    "LocalEulerAngles": {
+      "x": 350.070435,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.1787146,
+      "y": 0.128602028,
+      "z": 0.2345833
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780026414613,
+    "Name": "Grip/Lights",
+    "Texture": "camos/Bandoot/Wuthering Waves stars.mp4",
+    "TextureUV": {
+      "x": -0.5879566,
+      "y": -0.8622573,
+      "z": 0.7212709,
+      "w": 0.3411482
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0484062545,
+      "y": -0.6551718,
+      "z": -0.0799647346
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.406776965,
+      "y": 0.08782605,
+      "z": 0.12826547
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1780026414613,
+    "Name": "Barrel",
+    "Texture": "camos/Bandoot/Wuthering Waves stars.mp4",
+    "TextureUV": {
+      "x": -0.316546261,
+      "y": -0.510407269,
+      "z": 1.08947468,
+      "w": 1.14575684
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/f951ad40fc534b41a70cec94b41a2bc1.png",
+    "MaskUV": {
+      "x": -0.01328665,
+      "y": -0.2280515,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.040014483,
+      "y": -1.02778828,
+      "z": -0.03301264
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.404597431,
+      "y": 0.08583444,
+      "z": 0.177103832
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  }
+]

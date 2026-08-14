@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1785881181202,
+  "Materials": {
+    "item_equipment_rig_azimut_surpat": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Glossness": 1.2,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.4433962
+      },
+      "Texture": "camos/zovchernobyl/tGmf6dCazShCuIBniZ_V-5gCyI9OqcdhPTr-lO7_GVF6MTeQ0wPGmepl6Avv-VAqCS0B7iSl4dBt8L7dpYT-qfAt.png",
+      "TextureUV": {
+        "x": 1.675,
+        "y": 1.675,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.1,
+        "y": 2.0
+      },
+      "DefVals": {
+        "x": 0.7,
+        "y": 0.7
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

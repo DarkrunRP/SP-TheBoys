@@ -1,0 +1,150 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1786137211484,
+  "Materials": {
+    "weapon_colt_m16_556x45_internals": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.783000052
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Glossness": 1.0,
+      "Specularness": 2.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5
+      },
+      "Texture": "camos/UtanuManer/Colors/Color_9_Texture_Mono_Apple.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "CompensateSpecular": true
+    },
+    "endplate_ar15_colt_a15_std": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.778000057
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Glossness": 1.0,
+      "Specularness": 1.2,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.495
+      },
+      "Texture": "camos/UtanuManer/Colors/Color_9_Texture_Mono_Apple.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "CompensateSpecular": true
+    },
+    "weapon_colt_m16_556x45_bolt": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.844000041
+      },
+      "Glossness": 1.0,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.571
+      },
+      "Texture": "camos/UtanuManer/Colors/Color_9_Texture_Mono_Apple.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "CompensateSpecular": true
+    },
+    "weapon_colt_m16a1_556x45": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.89199996
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Glossness": 1.0,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7
+      },
+      "Texture": "camos/UtanuManer/Colors/Color_9_Texture_Mono_Apple.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

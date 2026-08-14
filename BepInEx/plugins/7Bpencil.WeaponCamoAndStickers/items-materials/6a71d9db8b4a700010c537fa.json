@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1785883862161,
+  "Materials": {
+    "item_equipment_rig_m1": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0147058815,
+        "z": 0.9117647
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.757352948
+      },
+      "Glossness": 1.0,
+      "Specularness": 1.4,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5735294
+      },
+      "Texture": "camos/zovchernobyl/tGmf6dCazShCuIBniZ_V-5gCyI9OqcdhPTr-lO7_GVF6MTeQ0wPGmepl6Avv-VAqCS0B7iSl4dBt8L7dpYT-qfAt.png",
+      "TextureUV": {
+        "x": 0.796428561,
+        "y": 0.796428561,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 0.2
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 0.2
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

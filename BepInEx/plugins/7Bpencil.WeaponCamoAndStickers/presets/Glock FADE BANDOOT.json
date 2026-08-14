@@ -1,0 +1,202 @@
+[
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Material/Material_Camo_5_Anodized Aluminum",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.637254536,
+      "w": 0.3729663
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.016326312,
+      "y": -0.381191164,
+      "z": 0.0483479649
+    },
+    "LocalEulerAngles": {
+      "x": 351.2825,
+      "y": 89.6901245,
+      "z": 0.0385924466
+    },
+    "LocalScale": {
+      "x": 0.09343736,
+      "y": 0.09065664,
+      "z": 0.0623989366
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Material/Material_Camo_5_Anodized Aluminum",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.516022563,
+      "w": 0.3729663
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.0400064252,
+      "y": -0.6177492,
+      "z": 0.04723248
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -270.0
+    },
+    "LocalScale": {
+      "x": 0.47610727,
+      "y": 0.04,
+      "z": 0.09121896
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Material/Material_Camo_5_Anodized Aluminum",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.516022563,
+      "w": 0.3729663
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.0400064252,
+      "y": -0.6177492,
+      "z": 0.04723248
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -450.0
+    },
+    "LocalScale": {
+      "x": -0.47610727,
+      "y": 0.04,
+      "z": 0.09121896
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Material/Material_Camo_5_Anodized Aluminum",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.516022563,
+      "w": 0.3729663
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.0033960687,
+      "y": -0.617822051,
+      "z": 0.08482173
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 92.8524246,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.5152757,
+      "y": 0.06588026,
+      "z": 0.0623989366
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "SchemaVersion": 1,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Material/Material_Camo_5_Anodized Aluminum",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.516022563,
+      "w": 0.3729663
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.00104431331,
+      "y": -0.6165885,
+      "z": -0.004272602
+    },
+    "LocalEulerAngles": {
+      "x": -1.70754731E-06,
+      "y": 92.8524246,
+      "z": 271.025818
+    },
+    "LocalScale": {
+      "x": -0.5152757,
+      "y": 0.0125302905,
+      "z": 0.0623989366
+    },
+    "MaxAngle": 0.5
+  }
+]

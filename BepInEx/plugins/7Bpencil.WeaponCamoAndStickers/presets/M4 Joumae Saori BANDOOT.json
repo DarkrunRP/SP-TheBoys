@@ -1,0 +1,508 @@
+[
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778694901125,
+    "Name": "ERASE MAG. CLICK EYE ICON?",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.08754974,
+      "y": -0.397045255,
+      "z": -0.194929346
+    },
+    "LocalEulerAngles": {
+      "x": 349.939667,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.126537308,
+      "y": 0.174684674,
+      "z": 0.240640044
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": false,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778574350186,
+    "Name": "Main",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_20_Blue Tire.png",
+    "TextureUV": {
+      "x": 0.316828251,
+      "y": 0.166436091,
+      "z": 0.6666667,
+      "w": 0.689806759
+    },
+    "TextureAngle": 7.639441,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0286385678,
+      "y": -0.437033981,
+      "z": -0.0356301181
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -270.0
+    },
+    "LocalScale": {
+      "x": 0.448775023,
+      "y": 0.0578503124,
+      "z": 0.484483749
+    },
+    "MaxAngle": 0.5,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778574350186,
+    "Name": "Body 1",
+    "Texture": "camos/Bandoot/saori(swimsuit).mp4",
+    "TextureUV": {
+      "x": 0.493220627,
+      "y": -0.171051443,
+      "z": 0.491807967,
+      "w": 0.8743253
+    },
+    "TextureAngle": 0.704453945,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0399934053,
+      "y": -0.318212122,
+      "z": -0.07790994
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.2,
+      "y": 0.0829659551,
+      "z": 0.2
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778574350186,
+    "Name": "Body 2",
+    "Texture": "camos/Bandoot/saori(swimsuit).mp4",
+    "TextureUV": {
+      "x": 0.493786275,
+      "y": -0.13970764,
+      "z": 0.491807967,
+      "w": 0.8743253
+    },
+    "TextureAngle": 0.704453945,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/799420719ed4558e1f7cf619e740e5a7.png",
+    "MaskUV": {
+      "x": 0.62718606,
+      "y": 1.34110451E-06,
+      "z": 0.645060062,
+      "w": 0.645060062
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0399934053,
+      "y": -0.318212122,
+      "z": -0.07790994
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.2,
+      "y": 0.0829659551,
+      "z": 0.2
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778574350186,
+    "Name": "Mag",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_20_Blue Tire.png",
+    "TextureUV": {
+      "x": 0.316828251,
+      "y": 0.166436091,
+      "z": 0.6666667,
+      "w": 0.689806759
+    },
+    "TextureAngle": 7.639441,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.04000341,
+      "y": -0.401980042,
+      "z": -0.15748778
+    },
+    "LocalEulerAngles": {
+      "x": 352.78775,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.15835236,
+      "y": 0.0803106,
+      "z": 0.17095235
+    },
+    "MaxAngle": 0.5,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778574350186,
+    "Name": "Pistol Grip Mask",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_20_Blue Tire.png",
+    "TextureUV": {
+      "x": 0.07296909,
+      "y": 1.8362E-05,
+      "z": 0.6666667,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.536448538,
+      "y": 0.6332381,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/799420719ed4558e1f7cf619e740e5a7.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0399809554,
+      "y": -0.226268485,
+      "z": -0.104732238
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.0990056545,
+      "y": 0.07803922,
+      "z": 0.0990056545
+    },
+    "MaxAngle": 0.5,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778574350186,
+    "Name": "Buttstock Decal",
+    "Texture": "camos/UtanuManer/Snow/Snow_Camo_1_Pure White Snow Camo.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.6666667,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.536448538,
+      "y": 0.6332381,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/dust 90.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0399864838,
+      "y": -0.11737334,
+      "z": 0.000490463455
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.218692392,
+      "y": 0.09021447,
+      "z": 0.03592148
+    },
+    "MaxAngle": 0.5,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778574350186,
+    "Name": "Barrel",
+    "Texture": "camos/UtanuManer/Military/Military_Camo_15_Urban Tiger Stripe.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.6666667,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.536448538,
+      "y": 0.6332381,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/dust 90.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.03999143,
+      "y": -0.9474275,
+      "z": 0.0421496779
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.299134672,
+      "y": 0.08572847,
+      "z": 0.299134672
+    },
+    "MaxAngle": 0.5,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778574350186,
+    "Name": "Handguard Decal",
+    "Texture": "camos/UtanuManer/Colors/Color_10_Texture_Mono_Aquamarine.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.536448538,
+      "y": 0.6332381,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/xx_MW19_tiger_BlueTiger.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0881089941,
+      "y": -0.692402542,
+      "z": 0.0421497375
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.299134672,
+      "y": 0.0876945,
+      "z": 0.299134672
+    },
+    "MaxAngle": 0.5,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778574350186,
+    "Name": "Buttstock Sticker",
+    "Texture": "stickers/spirits-embroidery/AEMO1-3.png",
+    "TextureUV": {
+      "x": 0.1294113,
+      "y": 0.0007038313,
+      "z": 0.9321991,
+      "w": 0.927751243
+    },
+    "TextureAngle": -9.618095,
+    "ColorHSVA": {
+      "x": 0.5490937,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400427356,
+      "y": -0.142227411,
+      "z": -0.0496114381
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": -0.219538182,
+      "y": 0.04,
+      "z": 0.219538182
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  },
+  {
+    "SchemaVersion": 7,
+    "SaveTime": 1778574350186,
+    "Name": "Mask Decal",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_34_Cobalt Grip.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.7516945,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.4979973,
+      "y": 0.6820461,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/22bugs/dust.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.01584029,
+      "w": 1.01584029
+    },
+    "MaskAngle": 0.0,
+    "LocalPosition": {
+      "x": -0.0400012657,
+      "y": -0.428371549,
+      "z": -0.00139939925
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -270.0
+    },
+    "LocalScale": {
+      "x": -0.0617607981,
+      "y": 0.0902853459,
+      "z": 0.05477473
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint"
+  }
+]

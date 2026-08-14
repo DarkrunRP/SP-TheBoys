@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1786247535832,
+  "Materials": {
+    "item_equipment_helmet_mich2001": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5660378
+      },
+      "Glossness": 1.15,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.1509434
+      },
+      "Texture": "camos/Nkstuf/Patterns/Bugeyes.png",
+      "TextureUV": {
+        "x": 1.94285667,
+        "y": 1.94285667,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.1,
+        "y": 2.0
+      },
+      "DefVals": {
+        "x": 0.7,
+        "y": 0.3
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

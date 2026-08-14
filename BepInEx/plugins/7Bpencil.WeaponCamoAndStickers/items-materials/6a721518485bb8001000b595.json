@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1785899745353,
+  "Materials": {
+    "backpack_Trooper_35": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Glossness": 1.2,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.311320782
+      },
+      "Texture": "camos/zovchernobyl/tGmf6dCazShCuIBniZ_V-5gCyI9OqcdhPTr-lO7_GVF6MTeQ0wPGmepl6Avv-VAqCS0B7iSl4dBt8L7dpYT-qfAt.png",
+      "TextureUV": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 0.9,
+        "y": 0.2
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1786247788925,
+    "Name": "",
+    "Texture": "stickers/spirits-embroidery/Last Man Battalion.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.135030508,
+      "y": 0.160679609,
+      "z": 0.0175228119
+    },
+    "LocalEulerAngles": {
+      "x": 275.0514,
+      "y": 180.0,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": 0.0391842872,
+      "y": 0.1,
+      "z": 0.0391842872
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 1
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1786247788925,
+    "Name": "",
+    "Texture": "stickers/spirits-embroidery/USA-CANADA Flag.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -1.47847459E-08,
+      "y": 0.0576256774,
+      "z": -0.120002776
+    },
+    "LocalEulerAngles": {
+      "x": 270.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "LocalScale": {
+      "x": 0.0491159335,
+      "y": 0.1,
+      "z": 0.0244143531
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 1
+  }
+]

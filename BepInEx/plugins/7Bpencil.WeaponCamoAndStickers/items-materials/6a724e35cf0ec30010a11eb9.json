@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1786137144691,
+  "Materials": {
+    "item_equipment_armor_custom_thorcrv": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.8876405
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5
+      },
+      "Glossness": 0.01,
+      "Specularness": 2.07863641,
+      "ReflectColorHSV": {
+        "x": 1.0,
+        "y": 0.902621746,
+        "z": 0.41942057
+      },
+      "Texture": "camos/UtanuManer/Colors/Color_9_Texture_Mono_Apple.png",
+      "TextureUV": {
+        "x": 1.4875,
+        "y": 1.4875,
+        "z": 0.205357149,
+        "w": -0.205357149
+      },
+      "SpecVals": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "DefVals": {
+        "x": 0.4746544,
+        "y": 1.68663585
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

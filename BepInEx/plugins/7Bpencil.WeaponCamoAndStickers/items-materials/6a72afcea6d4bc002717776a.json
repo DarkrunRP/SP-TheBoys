@@ -1,0 +1,114 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1786248179975,
+  "Materials": {
+    "belt_vector_gear": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.107843138,
+        "y": 0.133333325,
+        "z": 0.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7921569
+      },
+      "Glossness": 1.0,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.305882365
+      },
+      "Texture": "camos/Nkstuf/Patterns/Bugeyes.png",
+      "TextureUV": {
+        "x": 4.87857056,
+        "y": 4.87857056,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": -0.5
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "CompensateSpecular": true
+    },
+    "belt_vector_gear2": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.107843138,
+        "y": 0.133333325,
+        "z": 0.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7921569
+      },
+      "Glossness": 1.0,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.305882365
+      },
+      "Texture": "camos/Nkstuf/Patterns/Bugeyes.png",
+      "TextureUV": {
+        "x": 5.24821329,
+        "y": 5.24821329,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": -0.5
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "CompensateSpecular": true
+    },
+    "belt_vector": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.5548883,
+        "y": 0.9120733,
+        "z": 0.202247173
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7921569
+      },
+      "Glossness": 1.0,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.305882365
+      },
+      "Texture": "camos/HiredOpsCamo/152_camo_texture.png",
+      "TextureUV": {
+        "x": 5.832142,
+        "y": 5.832142,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": -0.5
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1785729152336,
+  "Materials": {
+    "backpack_TriZip": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5
+      },
+      "Glossness": 0.01,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.602941155
+      },
+      "Texture": "camos/ChampionOfLight/images_22.png",
+      "TextureUV": {
+        "x": 2.07142854,
+        "y": 2.07142854,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 0.2
+      },
+      "DefVals": {
+        "x": 0.4746544,
+        "y": 1.68663585
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

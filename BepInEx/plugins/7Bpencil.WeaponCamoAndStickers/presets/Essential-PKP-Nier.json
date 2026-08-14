@@ -1,0 +1,154 @@
+[
+  {
+    "Texture": "camos/EFT Arena/Spray_Stripes_1_pattern",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 9.374368,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/d5688321ca12f437dac4053f8cdb81b4",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.479,
+      "z": 0.0
+    },
+    "LocalEulerAngles": {
+      "x": 6.36682749,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 1.119316,
+      "y": 0.04,
+      "z": 0.386546642
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "Texture": "camos/EFT Arena/Spray_Stripes_1_pattern",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 9.374368,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/d5688321ca12f437dac4053f8cdb81b4",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.04,
+      "y": -0.479,
+      "z": 0.0
+    },
+    "LocalEulerAngles": {
+      "x": 6.36682749,
+      "y": 0.0,
+      "z": -90.0
+    },
+    "LocalScale": {
+      "x": 1.119316,
+      "y": 0.04,
+      "z": 0.386546642
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "Texture": "stickers/7Bpencil/nier/05d8e990f916714491abd783ef027b4b",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": -0.06940456,
+      "y": -0.460669339,
+      "z": -0.1618551
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "LocalScale": {
+      "x": 0.101186745,
+      "y": 0.04,
+      "z": 0.1574664
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "Texture": "stickers/7Bpencil/eft/killa",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "LocalPosition": {
+      "x": 0.0524594449,
+      "y": -0.561544538,
+      "z": -0.156760022
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 180.0
+    },
+    "LocalScale": {
+      "x": 0.127241671,
+      "y": 0.04,
+      "z": 0.127241671
+    },
+    "MaxAngle": 0.5
+  }
+]

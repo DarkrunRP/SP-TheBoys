@@ -1,0 +1,78 @@
+[
+  {
+    "Texture": "camos/7Bpencil/red-digital",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.74367571,
+      "w": 1.50579119
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.495
+    },
+    "Mask": "masks/7Bpencil/wetraix",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.20951128,
+      "w": 2.20951128
+    },
+    "LocalPosition": {
+      "x": -0.0400001,
+      "y": -0.567532957,
+      "z": -0.0578442253
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.501051,
+      "y": 0.04,
+      "z": 0.2749881
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "Texture": "camos/7Bpencil/red-digital",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.74367571,
+      "w": 1.50579119
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.495
+    },
+    "Mask": "masks/7Bpencil/wetraix",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.20951128,
+      "w": 2.20951128
+    },
+    "LocalPosition": {
+      "x": 0.0400001,
+      "y": -0.567532957,
+      "z": -0.0578442253
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -90.0
+    },
+    "LocalScale": {
+      "x": 0.501051,
+      "y": 0.04,
+      "z": 0.2749881
+    },
+    "MaxAngle": 0.5
+  }
+]

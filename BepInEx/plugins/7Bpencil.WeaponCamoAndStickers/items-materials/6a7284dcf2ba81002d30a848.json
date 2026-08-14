@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1785894349479,
+  "Materials": {
+    "item_equipment_rig_azimut_black": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "Glossness": 1.2,
+      "Specularness": 1.0,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.4433962
+      },
+      "Texture": "camos/HiredOpsCamo/152_camo_texture.png",
+      "TextureUV": {
+        "x": 5.837502,
+        "y": 5.837502,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "SpecVals": {
+        "x": 1.1,
+        "y": 2.0
+      },
+      "DefVals": {
+        "x": 0.55,
+        "y": 0.7
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "SchemaVersion": 0,
+  "SaveTime": 1786659825650,
+  "Materials": {
+    "xmaterial_44db05e28f3e5001": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.565543056,
+        "y": 1.0,
+        "z": 0.58801496
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5
+      },
+      "Glossness": 0.078125,
+      "Specularness": 0.1,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Texture": "",
+      "TextureUV": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0,
+        "w": -0.008
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    },
+    "xmaterial_4785b6a10609684f": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.565543056,
+        "y": 1.0,
+        "z": 0.58801496
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5
+      },
+      "Glossness": 0.078125,
+      "Specularness": 0.1,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Texture": "",
+      "TextureUV": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0,
+        "w": -0.008
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    },
+    "xmaterial_6ed055ac575ed051": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.565543056,
+        "y": 1.0,
+        "z": 0.58801496
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5
+      },
+      "Glossness": 0.078125,
+      "Specularness": 0.1,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Texture": "",
+      "TextureUV": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0,
+        "w": -0.008
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    },
+    "xmaterial_b97f3c44dd24611": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.565543056,
+        "y": 1.0,
+        "z": 0.58801496
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5
+      },
+      "Glossness": 0.078125,
+      "Specularness": 0.1,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Texture": "",
+      "TextureUV": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0,
+        "w": -0.008
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    },
+    "xmaterial_529921bf33dabf81": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.565543056,
+        "y": 1.0,
+        "z": 0.58801496
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5
+      },
+      "Glossness": 0.078125,
+      "Specularness": 0.1,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Texture": "",
+      "TextureUV": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0,
+        "w": -0.008
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    },
+    "xmaterial_6520e0cedaa31b07": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.565543056,
+        "y": 1.0,
+        "z": 0.58801496
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5
+      },
+      "Glossness": 0.078125,
+      "Specularness": 0.1,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Texture": "",
+      "TextureUV": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0,
+        "w": -0.008
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    },
+    "xmaterial_5aa6d9c24a57b6ee": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.565543056,
+        "y": 1.0,
+        "z": 0.58801496
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5
+      },
+      "Glossness": 0.078125,
+      "Specularness": 0.1,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Texture": "",
+      "TextureUV": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0,
+        "w": -0.008
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    },
+    "xmaterial_6fac8baa28f855b0": {
+      "SchemaVersion": 1,
+      "ColorHSV": {
+        "x": 0.565543056,
+        "y": 1.0,
+        "z": 0.58801496
+      },
+      "SpecColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.5
+      },
+      "Glossness": 0.078125,
+      "Specularness": 0.1,
+      "ReflectColorHSV": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Texture": "",
+      "TextureUV": {
+        "x": 1.0,
+        "y": -1.0,
+        "z": 0.0,
+        "w": -0.008
+      },
+      "SpecVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DefVals": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "CompensateSpecular": true
+    }
+  }
+}

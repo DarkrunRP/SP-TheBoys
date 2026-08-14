@@ -1,0 +1,146 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1786241835077,
+    "Name": "Anime Backpack",
+    "Texture": "stickers/spirits-embroidery/Goldship TACTICAL.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "Root_Joint/Base HumanPelvis/Base HumanSpine1/Base HumanSpine2/Base HumanSpine3",
+    "LocalPosition": {
+      "x": -0.0873097554,
+      "y": -0.427130073,
+      "z": 0.03936288
+    },
+    "LocalEulerAngles": {
+      "x": 12.2151184,
+      "y": 283.49295,
+      "z": 182.906357
+    },
+    "LocalScale": {
+      "x": 0.0547847562,
+      "y": 0.09,
+      "z": 0.0775130838
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 1
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1786241835077,
+    "Name": "Sticker Backpack Trooper35",
+    "Texture": "stickers/spirits-embroidery/straight outta.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "Root_Joint/Base HumanPelvis/Base HumanSpine1/Base HumanSpine2/Base HumanSpine3",
+    "LocalPosition": {
+      "x": -0.0832039043,
+      "y": -0.4384605,
+      "z": -0.0203021411
+    },
+    "LocalEulerAngles": {
+      "x": 12.551,
+      "y": 270.0,
+      "z": 180.0
+    },
+    "LocalScale": {
+      "x": 0.06239984,
+      "y": 0.09,
+      "z": 0.0543613955
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 1
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1786241835077,
+    "Name": "Spartan Chest sticker",
+    "Texture": "stickers/spirits-embroidery/CAG-D_A-Squadron.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "Root_Joint/Base HumanPelvis/Base HumanSpine1/Base HumanSpine2/Base HumanSpine3",
+    "LocalPosition": {
+      "x": -0.175161421,
+      "y": 0.249201015,
+      "z": 0.004800395
+    },
+    "LocalEulerAngles": {
+      "x": 18.936,
+      "y": 270.085,
+      "z": 0.017
+    },
+    "LocalScale": {
+      "x": 0.08170962,
+      "y": 0.09,
+      "z": 0.08170962
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 1
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Texture": "camos/Norvinsk Night Stalker/Czechv95leaf_800x800",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.57993865,
+      "w": 1.19318211
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.844999969
+    },
+    "Mask": "masks/7Bpencil/wetraix",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.8725377,
+      "w": 1.37014544
+    },
+    "LocalPosition": {
+      "x": -0.0260057412,
+      "y": -0.44193396,
+      "z": -0.0213282313
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.8337043,
+      "y": 0.06659818,
+      "z": 0.385575473
+    },
+    "MaxAngle": 0.5
+  },
+  {
+    "Texture": "camos/Norvinsk Night Stalker/Czechv95leaf_800x800",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.57993865,
+      "w": 1.19318211
+    },
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.844999969
+    },
+    "Mask": "masks/7Bpencil/wetraix",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.8725377,
+      "w": 1.37014544
+    },
+    "LocalPosition": {
+      "x": 0.0260057412,
+      "y": -0.44193396,
+      "z": -0.0213282313
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -90.0
+    },
+    "LocalScale": {
+      "x": 0.8337043,
+      "y": 0.026,
+      "z": 0.385575473
+    },
+    "MaxAngle": 0.5
+  }
+]
