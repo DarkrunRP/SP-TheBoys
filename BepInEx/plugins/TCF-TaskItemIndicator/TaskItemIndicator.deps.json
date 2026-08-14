@@ -1,0 +1,40 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "TaskItemIndicator/1.1.0": {
+        "dependencies": {
+          "TaskItemIndicator.Shared": "1.0.0"
+        },
+        "runtime": {
+          "TaskItemIndicator.dll": {}
+        }
+      },
+      "TaskItemIndicator.Shared/1.0.0": {
+        "runtime": {
+          "TaskItemIndicator.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskItemIndicator/1.1.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskItemIndicator.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
