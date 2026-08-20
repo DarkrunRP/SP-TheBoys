@@ -1,0 +1,50 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1786913360921,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Black Market Imports/Industrial Grade/Industrial Grade_Skin_59_Houndstooth.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.83227086,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.891043544
+    },
+    "Mask": "masks/22bugs/stamp.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.5162727,
+      "z": -0.0771274343
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 1.16042078,
+      "y": 0.04,
+      "z": 0.2731426
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]

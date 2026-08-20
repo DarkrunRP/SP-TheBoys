@@ -1,0 +1,50 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1786913301551,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Black Market Imports/Industrial Grade/Industrial Grade_Skin_124_Tropical Storm.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.61973631,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.803078651
+    },
+    "Mask": "masks/7Bpencil/f951ad40fc534b41a70cec94b41a2bc1.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.34225446,
+      "z": -0.0522279032
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.71404326,
+      "y": 0.04,
+      "z": 0.2938928
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]

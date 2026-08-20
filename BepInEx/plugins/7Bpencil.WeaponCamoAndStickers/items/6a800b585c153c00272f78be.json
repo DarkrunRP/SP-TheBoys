@@ -1,0 +1,50 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1786776456230,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Modern Premium/Modern Premium_Camo_16_Naval Gray.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.83468235,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.7678422
+    },
+    "Mask": "masks/ChampionOfLight/1777144355736.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.402667522,
+      "z": -0.0531925522
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.8158816,
+      "y": 0.04,
+      "z": 0.296466082
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]

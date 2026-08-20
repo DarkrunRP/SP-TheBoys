@@ -1,0 +1,50 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1786911987384,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Snow/Snow_Camo_12_Snow & Dry Branches.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.624227,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.7969097
+    },
+    "Mask": "masks/ChampionOfLight/1775722591083.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.34773466,
+      "z": -0.0719869658
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.6679525,
+      "y": 0.04,
+      "z": 0.2741622
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1787113936173,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Forest/Forest_Camo_2_German Flecktarn.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.94048631,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.948074043
+    },
+    "Mask": "masks/7Bpencil/62f6b567ebe567312465963566c4fe74.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.42657125,
+      "z": -0.0571455881
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.8696431,
+      "y": 0.04,
+      "z": 0.29877153
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]

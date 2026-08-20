@@ -1,0 +1,50 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1787119256929,
+    "Name": "",
+    "Texture": "camos/wt_camo/ger_camo_winter_dunkelgelb.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 5.42604065,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.975964069
+    },
+    "Mask": "masks/22bugs/xx_MW19_reptile_Komodo.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.592487,
+      "z": -0.0293745436
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 1.3194977,
+      "y": 0.04,
+      "z": 0.24317874
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]

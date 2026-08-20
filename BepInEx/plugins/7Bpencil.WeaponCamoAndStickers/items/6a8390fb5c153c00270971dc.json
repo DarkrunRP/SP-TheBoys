@@ -1,0 +1,50 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1787007253144,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Urban/Urban_Camo_8_Brick & Concrete.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 3.01885486,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.7484486
+    },
+    "Mask": "masks/22bugs/xx_MW19_tiger_RedTiger.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.6229092,
+      "z": -0.01953731
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.8402689,
+      "y": 0.04,
+      "z": 0.185560182
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]

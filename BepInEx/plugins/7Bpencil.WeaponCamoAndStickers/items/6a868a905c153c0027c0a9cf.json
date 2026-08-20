@@ -1,0 +1,50 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1787202219080,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Animal/Animal_Camo_5_Fantasy_Reptile Scales.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.56220841,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.975964069
+    },
+    "Mask": "masks/22bugs/stamp.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.507039845,
+      "z": -0.06349238
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 1.02335131,
+      "y": 0.04,
+      "z": 0.266268045
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]

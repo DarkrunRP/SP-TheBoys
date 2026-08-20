@@ -1,0 +1,50 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1786771675235,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Black Market Imports/Consumer Grade/Consumer Grade_Skin_34_Cobalt Grip.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 4.737586,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.975964069
+    },
+    "Mask": "masks/22bugs/xx_MW19_dragon_Dirt.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.679474354,
+      "z": -0.05070211
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 1.43102717,
+      "y": 0.04,
+      "z": 0.2013722
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]

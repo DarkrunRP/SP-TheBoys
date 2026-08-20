@@ -1,0 +1,50 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1786906756769,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Black Market Imports/Industrial Grade/Industrial Grade_Skin_50_Grey Ghost.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 2.73608518,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.7484486
+    },
+    "Mask": "masks/22bugs/xx_MW19_dragon_Dirt.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.516311467,
+      "z": -0.0340611935
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 1.05346429,
+      "y": 0.04,
+      "z": 0.2566841
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]

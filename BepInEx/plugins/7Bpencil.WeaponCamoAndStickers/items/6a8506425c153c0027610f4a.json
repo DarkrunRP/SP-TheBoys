@@ -1,0 +1,50 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1787102822064,
+    "Name": "",
+    "Texture": "camos/UtanuManer/Urban/Urban_Camo_3_Cracked Asphalt.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 3.415843,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.7758074
+    },
+    "Mask": "masks/22bugs/xx_MW19_dragon_NeonPink.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.635895133,
+      "z": -0.04500784
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.91105926,
+      "y": 0.04,
+      "z": 0.17781052
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]

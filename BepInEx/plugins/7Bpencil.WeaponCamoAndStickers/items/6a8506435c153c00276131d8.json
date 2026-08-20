@@ -1,0 +1,50 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1787102819461,
+    "Name": "",
+    "Texture": "camos/wt_camo/ussr_camo_winter_green.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 3.45482349,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.7969097
+    },
+    "Mask": "masks/7Bpencil/d5688321ca12f437dac4053f8cdb81b4.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04,
+      "y": -0.517903745,
+      "z": -0.0533197634
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 1.07409608,
+      "y": 0.04,
+      "z": 0.310897529
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]
