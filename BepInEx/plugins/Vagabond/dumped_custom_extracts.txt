@@ -1,0 +1,38 @@
+
+    {
+        "identifier": "VGB_EXT_WAYLAND",
+        "displayName": "Wayland's Workshop",
+        "exfiltrationTime": 20,
+        "x": 84.14,
+        "y": -6.886,
+        "z": 77.837,
+        "rotationY": 104.332
+    },
+    {
+        "identifier": "VGB_EXT_ARTEM",
+        "displayName": "Artem's Bunker",
+        "exfiltrationTime": 20,
+        "x": -214.301,
+        "y": -10.846,
+        "z": 51.268,
+        "rotationY": 356.954
+    }
+
+        {
+        "identifier": "VGB_EXT_BADGER",
+        "displayName": "Badger's Room",
+        "exfiltrationTime": 20,
+        "x": -122.911,
+        "y": 7.941,
+        "z": 56.947,
+        "rotationY": 128.305
+    },
+    {
+        "identifier": "VGB_EXT_PAINTER",
+        "displayName": "Painter's Studio",
+        "exfiltrationTime": 20,
+        "x": -52.265,
+        "y": 6.864,
+        "z": 466.081,
+        "rotationY": 0.183
+    },
